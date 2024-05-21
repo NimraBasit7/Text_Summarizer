@@ -1,5 +1,5 @@
 # Text_Summarizer
-The project specializes in Text Summarization using NLP's extractive approach, preserving key information for concise summaries. Customize length, handle various formats, and enjoy a user-friendly interface. Applications include document skimming, content aggregation, and data analysis. Hop in to simplify information consumption! 🚀
+The project specializes in Text Summarization using NLP's SpaCy and NLTK extractive approach, preserving key information for concise summaries. Customize length, handle various formats, and enjoy a user-friendly interface. Applications include document skimming, content aggregation, and data analysis. Hop in to simplify information consumption! 🚀
 
 Key Features:
 This summarization system is powered by advanced Natural Language Processing (NLP) algorithms and models. Through this, we can effectively identify and extract the most salient sentences, retaining the essence of the original text in the summary. Additionally, users can customize the length of the summary based on their preferences, whether they need a brief overview or a more comprehensive synopsis. To achieve this, I've simply utilized the top 08 sentences after calculating their frequency and maintaining a dictionary. This process guarantees that the most relevant and significant information is retained in the summary.
